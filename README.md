@@ -1,13 +1,11 @@
 <!-- Header Banner with Animated Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Muhammad%20Immad%20Ahmed%20Khan&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Muhammad+Immad+Ahmed+Khan&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+%7C+AI+%26+ML+Engineer+%7C+Full+Stack+Developer&descAlignY=58&descColor=ffffff" alt="Header"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+%26+ML+Engineer;🔐+Cybersecurity+Enthusiast;☁️+Cloud+%26+DevOps+Engineer;🧬+Researching+Gen+AI+%26+AI+Agents;💻+Building+the+Future+from+Rawalpindi%2C+Pakistan" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Engineer;Researching+Gen+AI+%26+AI+Agents;Building+the+Future+from+Rawalpindi%2C+Pakistan" alt="Typing SVG" />
 </div>
 
 <br/>
