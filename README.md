@@ -112,22 +112,23 @@
 ```
 
 <div align="center">
+  <div align="center">
   <a href="https://github.com/immad-khan/career-mate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=career-mate&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=career-mate&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&show_owner=true" />
   </a>
   &nbsp;
   <a href="https://github.com/immad-khan/BioScout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=BioScout&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=BioScout&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&show_owner=true" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/immad-khan/GEN3D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=GEN3D&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=GEN3D&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&show_owner=true" />
   </a>
   &nbsp;
   <a href="https://github.com/immad-khan/smart_bazaar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=smart_bazaar&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=smart_bazaar&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&show_owner=true" />
   </a>
 </div>
 
