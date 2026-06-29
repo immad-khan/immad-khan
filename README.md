@@ -104,25 +104,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
-
-```bash
-┌──(immad㉿matrix)-[~/projects]
-└─$ ls -la --classified
-```
-
-<div align="center">
-
-[![career-mate](https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=career-mate&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/immad-khan/career-mate)
-[![BioScout](https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=BioScout&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/immad-khan/BioScout)
-
-[![GEN3D](https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=GEN3D&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/immad-khan/GEN3D)
-[![smart_bazaar](https://github-readme-stats.vercel.app/api/pin/?username=immad-khan&repo=smart_bazaar&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/immad-khan/smart_bazaar)
-
-</div>
-
-<br/>
-
 ### 🏆 Project Highlights
 
 | Project | Description | Tech | Links |
