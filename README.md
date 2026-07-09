@@ -45,10 +45,7 @@
 - 💼 Building **AI-powered full-stack applications**
 - 🔐 Passionate about **Cybersecurity & Secure Architecture**
 - ☁️ Exploring **Cloud infrastructure & DevOps automation**
-- 🤖 Training **ML/DL models** for real-world problems
-- 🎯 Goal: Build AI systems that actually matter
-- ⚡ Fun fact: I debug at 3am and call it productivity
-
+- 🎯 Goal: Build systems that actually matter
 <br clear="right"/>
 
 ---
