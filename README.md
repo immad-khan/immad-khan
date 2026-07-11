@@ -45,7 +45,6 @@
 - 💼 Building **AI-powered full-stack applications**
 - 🔐 Passionate about **Cybersecurity & Secure Architecture**
 - ☁️ Exploring **Cloud infrastructure & DevOps automation**
-- 🎯 Goal: Build systems that actually matter
 <br clear="right"/>
 
 ---
