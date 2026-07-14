@@ -37,7 +37,7 @@
   Focus    : Full Stack | AI/ML | Cybersecurity | Cloud
   Location : Rawalpindi, Pakistan 🇵🇰
   Research : Generative AI & AI Agents
-  Status   : Always Building Something Epic...
+  Status   : Always Building Something ...
 ```
 
 - 🔭 Currently researching **Gen AI & AI Agents**
