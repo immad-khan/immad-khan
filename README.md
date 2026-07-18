@@ -39,12 +39,6 @@
   Research : Generative AI & AI Agents
   Status   : Always Building Something ...
 ```
-
-- 🔭 Currently researching **Gen AI & AI Agents**
-- 🌱 Deep diving into **LLMs, RAG pipelines & Agentic Systems**
-- 💼 Building **AI-powered full-stack applications**
-- 🔐 Passionate about **Cybersecurity & Secure Architecture**
-- ☁️ Exploring **Cloud infrastructure & DevOps automation**
 <br clear="right"/>
 
 ---
