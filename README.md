@@ -195,7 +195,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=120&section=footer&text=Let's+Build+Something+Epic+Together&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let's+connect+and+collaborate!;Building+the+future+with+AI+🤖" alt="Footer Typing" />
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let%27s+connect+and+collaborate!;Building+the+future+with+AI+%F0%9F%A4%96" alt="Footer Typing" />
 </div>
