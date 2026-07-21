@@ -68,7 +68,7 @@
 
 <br/>
 
-### 🤖 AI & ML Stack
+### AI & ML Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
@@ -82,7 +82,7 @@
 
 <br/>
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,mongodb,postgresql,supabase,firebase&theme=dark" />
@@ -94,7 +94,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 Project Highlights
+### Project Highlights
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
@@ -107,7 +107,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats & Analytics
+## GitHub Stats & Analytics
 
 ```bash
 ┌──(immad㉿matrix)-[~/stats]
@@ -139,7 +139,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -156,7 +156,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 ```bash
 ┌──(immad㉿matrix)-[~/connect]
