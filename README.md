@@ -125,7 +125,6 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=immad-khan&show_icons=true&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&count_private=true&include_all_commits=true" />
   <!-- Streak Stats -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immad-khan&theme=chartreuse-dark&background=0d0208&border=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" />
 </div>
