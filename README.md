@@ -123,11 +123,7 @@
 
 <br/>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <!-- Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immad-khan&theme=chartreuse-dark&background=0d0208&border=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" />
-</div>
+
 
 <br/>
 
