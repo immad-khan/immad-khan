@@ -98,7 +98,7 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-|**CareerMate** | AI-powered career platform with HR, job seeker & admin modules. AI courses, resume builder, job scraping & market insights | React, Django, Supabase, Groq, Puppeteer | [Live](https://career-mate-8wo4.vercel.app) · [Repo](https://github.com/immad-khan/career-mate) |
+|**CareerMate** | AI-powered career platform with HR, job seeker & admin modules. AI courses, resume builder, job scraping, cover letter generation, Online Quizes, Learning Path, cold emails & market insights | React, Django, Supabase, Groq, Puppeteer | [Live](https://career-mate-8wo4.vercel.app) · [Repo](https://github.com/immad-khan/career-mate) |
 |**BioScout** | AI biodiversity platform with species classification (ResNet-50), GPS mapping & RAG Q&A | Flask, MongoDB, HuggingFace, Docker | [Live](#) · [Repo](https://github.com/immad-khan/BioScout) |
 |**GEN3D** | AI Text-to-3D generator using Ollama QwenCoder 7B with RAG for procedural Blender automation | FastAPI, Ollama, Blender, RAG | [Repo](https://github.com/immad-khan/GEN3D) |
 |**Smart Bazaar** | Unified e-commerce marketplace with web crawlers aggregating products from major Pakistani stores | Custom Crawlers, Full Stack | [Repo](https://github.com/immad-khan/smart_bazaar) |
