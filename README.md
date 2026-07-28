@@ -52,7 +52,7 @@
 └─$ ls -la skills/
 ```
 
-### 💻 Languages
+###  Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,php,java,dart,flutter,xml&theme=dark" />
@@ -60,7 +60,7 @@
 
 <br/>
 
-### ⚙️ Frameworks & Platforms
+###  Frameworks & Platforms
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,dotnet,laravel,react,nodejs&theme=dark" />
