@@ -136,7 +136,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=immad-khan&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41&title_color=00ff41"/>
 </div>
