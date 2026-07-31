@@ -128,7 +128,6 @@
 <br/>
 
 <div align="center">
-  <!-- Top Languages -->
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs?username=immad-khan&layout=compact&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&langs_count=10" />
   <!-- GitHub Trophies -->
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=immad-khan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=3" />
