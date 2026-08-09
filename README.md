@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+
 <div align="center">
   <img width="100%" src="./header.svg" alt="Muhammad Immad Ahmed Khan"/>
 </div>
