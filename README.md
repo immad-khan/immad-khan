@@ -1,44 +1,48 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  3D MATRIX PROFILE  ·  immad@matrix                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+  <img width="100%" src="./header.svg" alt="Muhammad Immad Ahmed Khan — Full Stack Developer, AI & ML Engineer, Cybersecurity Enthusiast" />
+</p>
 
-<!-- ── 3D animated header banner (capsule-render: venom 3D type) ─────── -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:003b14,40:008f11,75:00ff41,100:7dffa8&text=Muhammad%20Immad%20Ahmed%20Khan&reversal=false&animation=fadeIn&fontColor=ffffff&stroke=00ff41&strokeWidth=1&desc=Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cybersecurity%20%C2%B7%20Cloud&descSize=15&descAlignY=72&descColor=7dffa8" width="100%" alt="3D Header"/>
-</div>
+<br/>
 
-<!-- ── Custom 3D-rendered banner ─────────────────────────────────────── -->
 <div align="center">
-  <img src="./assets/header-3d.png" width="100%" alt="Immad Khan — 3D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Engineer;Researching+Gen+AI+%26+AI+Agents;Building+the+Future+from+Rawalpindi%2C+Pakistan" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- ── Typing animation ──────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=740&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Engineer;Researching+Gen+AI+%26+AI+Agents;Building+the+Future+from+Rawalpindi%2C+Pakistan" alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- ── Quick badges ──────────────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immad-khan&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=immad-khan&label=👁️+PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/immad-khan?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d0208" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/immad-khan?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d0208" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=STATUS&message=OPEN%20TO%20WORK&color=0d0208&logo=probot&logoColor=00ff41&labelColor=00ff41" alt="Status"/>
+  <img src="https://img.shields.io/github/stars/immad-khan?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d0208" alt="Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d0208" alt="Open to work"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About&nbsp;Me
+## 📑 Table of Contents
 
-<img align="right" src="./assets/avatar-3d.png" width="200" alt="3D Avatar"/>
+| # | Section | # | Section |
+|---|---------|---|---------|
+| 01 | [About Me](#-about-me) | 04 | [Project Highlights](#-project-highlights) |
+| 02 | [Tech Stack & Arsenal](#-tech-stack--arsenal) | 05 | [GitHub Stats & Analytics](#-github-stats--analytics) |
+| 03 | [Currently Researching](#-currently-researching) | 06 | [Connect With Me](#-connect-with-me) |
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```bash
 ┌──(immad㉿matrix)-[~/about-me]
@@ -52,81 +56,117 @@
   Status   : Always Building Something ...
 ```
 
-> 🤖 I build end-to-end platforms, ship AI/ML systems, harden infrastructure and
-> tinker with autonomous agents. Currently going deep on **Generative AI** and
-> **LLM agents**. Love clean architecture, terminal aesthetics and good coffee.
+</td>
+<td width="42%" valign="top" align="center">
 
-<br clear="right"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+- 🔭 **Software Engineer** — building end-to-end platforms that span web, AI and the cloud
+- 🧠 **Researching** Generative AI, LLMs & autonomous AI agents
+- 🛡️ **Security-minded** — I build with cybersecurity baked in, not bolted on
+- ☁️ **Cloud & DevOps** — containerizing, automating and shipping fast
+- 🎯 **Currently** — pushing the limits of what AI agents can build autonomously
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech&nbsp;Stack&nbsp;&amp;&nbsp;Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack & Arsenal
 
 ```bash
 ┌──(immad㉿matrix)-[~/tech-stack]
 └─$ ls -la skills/
 ```
 
-### &nbsp;Languages
+### 🐍 Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,php,java,dart,flutter,xml&theme=dark&perline=11" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,php,java,dart,flutter,xml&theme=dark" />
 </div>
 
 <br/>
 
-### &nbsp;Frameworks &amp; Platforms
+### ⚙️ Frameworks & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,dotnet,laravel,react,nodejs&theme=dark&perline=7" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,dotnet,laravel,react,nodejs&theme=dark" />
 </div>
 
 <br/>
 
-### &nbsp;AI &amp; ML Stack
+### 🤖 AI & ML Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 <br/>
 
-### &nbsp;Tools &amp; DevOps
+### 🛠️ Tools & DevOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,mongodb,postgresql,supabase,firebase&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,mongodb,postgresql,supabase,firebase&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=cloudinary,vercel,postman,figma,blender,kali&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=cloudinary,vercel,postman,figma,blender,kali&theme=dark" />
 </div>
-
-<br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🔬 Currently Researching
 
-## <img src="https://media.giphy.com/media/W5oFdbgZDPx12grnTQ/giphy.gif" width="35"> Project&nbsp;Highlights
+<div align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-0d0208?style=for-the-badge&logo=openai&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0d0208?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/RAG-0d0208?style=for-the-badge&logo=elasticsearch&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/LangGraph-0d0208?style=for-the-badge&logo=langchain&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Text--to--3D-0d0208?style=for-the-badge&logo=blender&logoColor=00ff41" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+---
+
+## 🚀 Project Highlights
 
 | Project | Description | Tech | Links |
-|:--------|:------------|:-----|:------|
-| **🧭 CareerMate** | AI-powered career platform with HR, job seeker & admin modules. AI courses, resume builder, job scraping, cover letter generation, online quizzes, learning paths, cold emails & market insights. | `React` `Django` `Supabase` `Groq` `Puppeteer` | [🟢 Live](https://career-mate-8wo4.vercel.app) · [📦 Repo](https://github.com/immad-khan/career-mate) |
-| **🦋 BioScout** | AI biodiversity platform with species classification (ResNet-50), GPS mapping & RAG Q&A. | `Flask` `MongoDB` `HuggingFace` `Docker` | [📦 Repo](https://github.com/immad-khan/BioScout) |
-| **🧊 GEN3D** | AI Text-to-3D generator using Ollama QwenCoder 7B with RAG for procedural Blender automation. | `FastAPI` `Ollama` `Blender` `RAG` | [📦 Repo](https://github.com/immad-khan/GEN3D) |
-| **🛒 Smart Bazaar** | Unified e-commerce marketplace with web crawlers aggregating products from major Pakistani stores. | `Custom Crawlers` `Full Stack` `Python` | [📦 Repo](https://github.com/immad-khan/smart_bazaar) |
+|:-------:|-------------|------|-------|
+| <img src="https://img.shields.io/badge/CareerMate-00ff41?style=for-the-badge&logo=readme&logoColor=0d0208" /> | AI-powered career platform — HR, job seeker & admin modules, AI courses, resume builder, job scraping, cover letter generation, online quizzes, learning paths, cold emails & market insights | React · Django · Supabase · Groq · Puppeteer | [🔗 Live](https://career-mate-8wo4.vercel.app) · [📦 Repo](https://github.com/immad-khan/career-mate) |
+| <img src="https://img.shields.io/badge/BioScout-00ff41?style=for-the-badge&logo=readme&logoColor=0d0208" /> | AI biodiversity platform — species classification (ResNet-50), GPS mapping & RAG-powered Q&A | Flask · MongoDB · HuggingFace · Docker | [📦 Repo](https://github.com/immad-khan/BioScout) |
+| <img src="https://img.shields.io/badge/GEN3D-00ff41?style=for-the-badge&logo=readme&logoColor=0d0208" /> | AI Text-to-3D generator — Ollama QwenCoder 7B + RAG driving procedural Blender automation | FastAPI · Ollama · Blender · RAG | [📦 Repo](https://github.com/immad-khan/GEN3D) |
+| <img src="https://img.shields.io/badge/Smart%20Bazaar-00ff41?style=for-the-badge&logo=readme&logoColor=0d0208" /> | Unified e-commerce marketplace — web crawlers aggregating products from major Pakistani stores | Custom Crawlers · Full Stack | [📦 Repo](https://github.com/immad-khan/smart_bazaar) |
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/Qo3TNBYK1ihqYDqYxK/giphy.gif" width="35"> GitHub&nbsp;Stats&nbsp;&amp;&nbsp;Analytics
+## 📊 GitHub Stats & Analytics
 
 ```bash
 ┌──(immad㉿matrix)-[~/stats]
@@ -134,23 +174,25 @@
 ```
 
 <div align="center">
-  <!-- Stats card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immad-khan&show_icons=true&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <!-- Streak -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immad-khan&theme=chartreuse-dark&background=0d0208&border=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" alt="Streak Stats"/>
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immad-khan&show_icons=true&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&count_private=true&include_all_commits=true" />
+  <!-- Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immad-khan&theme=chartreuse-dark&background=0d0208&border=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs?username=immad-khan&layout=compact&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=immad-khan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=3" alt="Trophies"/>
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs?username=immad-khan&layout=compact&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&langs_count=10" />
+  <!-- Trophies -->
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=immad-khan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=3" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=immad-khan&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41&title_color=00ff41" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=immad-khan&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41&title_color=00ff41" />
 </div>
 
 ---
@@ -163,22 +205,24 @@
       srcset="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake.svg"/>
-    <img alt="github-snake"
-      src="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake.svg"/>
   </picture>
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhrXvJlS/giphy.gif" width="30"> Connect&nbsp;With&nbsp;Me
+## 🌐 Connect With Me
 
 ```bash
 ┌──(immad㉿matrix)-[~/connect]
 └─$ nmap --open -p social immad-khan
+# All 6 ports open ✔
 ```
 
 <div align="center">
@@ -211,11 +255,15 @@
 
 ---
 
-<!-- ── 3D animated waving footer ─────────────────────────────────────── -->
+<!-- Footer Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=140&section=footer&text=Let's%20Build%20Something%20Epic%20Together&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=120&section=footer&text=Let's+Build+Something+Epic+Together&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let%27s+connect+and+collaborate!;Building+the+future+with+AI+%F0%9F%A4%96" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let%27s+connect+and+collaborate!;Building+the+future+with+AI+%F0%9F%A4%96" alt="Footer Typing" />
+</div>
+
+<div align="center">
+  <sub>⬆️ <a href="#top">Back to top</a> · crafted with 💚 in Rawalpindi</sub>
 </div>
