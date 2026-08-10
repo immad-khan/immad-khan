@@ -1,199 +1,87 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:6D5DFB,100:00D4FF&height=245&section=header&text=Muhammad%20Immad%20Ahmed%20Khan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20Builder%20%C2%B7%203D%20Tech%20Explorer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Muhammad Immad Ahmed Khan" /> </div><div align="center"> <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%E2%9A%A1;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+intelligent+experiences+in+2D+and+3D+%F0%9F%A7%8A;Exploring+Generative+AI%2C+Agents+%26+Cloud+%E2%98%81%EF%B8%8F"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%E2%9A%A1;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+intelligent+experiences+in+2D+and+3D+%F0%9F%A7%8A;Exploring+Generative+AI%2C+Agents+%26+Cloud+%E2%98%81%EF%B8%8F" alt="Typing introduction" /> </a> <br/> <a href="https://github.com/immad-khan?tab=followers"><img src="https://img.shields.io/github/followers/immad-khan?label=Followers&style=for-the-badge&color=6D5DFB&labelColor=0B1020&logo=github" alt="GitHub followers" /></a> <img src="https://komarev.com/ghpvc/?username=immad-khan&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile views" /> <a href="https://github.com/immad-khan"><img src="https://img.shields.io/badge/Open%20to-Collaborate-FF7A59?style=for-the-badge" alt="Open to collaborate" /></a> </div><br/>
+Turning ambitious ideas into clean software, useful AI systems, and immersive 3D experiences.
 
-<div align="center">
-  <img width="100%" src="./header.svg" alt="Muhammad Immad Ahmed Khan"/>
-</div>
+~/about-me <img align="right" width="235" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+YAML
 
+name: Muhammad Immad Ahmed Khan
+based_in: Rawalpindi, Pakistan 🇵🇰
+role: Software Engineer
+currently_exploring:
+  - Generative AI & autonomous agents
+  - 3D modelling, procedural workflows & Blender automation
+  - Scalable full-stack products and cloud-native delivery
+mindset: "Build. Experiment. Refine. Repeat."
+I blend full-stack engineering, AI/ML, and 3D tooling to make digital products feel more intelligent and more tangible. From RAG-powered platforms to procedural 3D generation, I enjoy solving problems at the intersection of creativity and engineering.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Engineer;Researching+Gen+AI+%26+AI+Agents;Building+the+Future+from+Rawalpindi%2C+Pakistan" alt="Typing SVG" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immad-khan&label=👁️+Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/immad-khan?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d0208" alt="Followers"/>
-</div>
-
-<br/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-
-```bash
-┌──(immad㉿matrix)-[~/about-me]
-└─$ cat whoami.txt
-
-  Name     : Muhammad Immad Ahmed Khan
-  Role     : Software Engineer
-  Focus    : Full Stack | AI/ML | Cybersecurity | Cloud
-  Location : Rawalpindi, Pakistan 🇵🇰
-  Research : Generative AI & AI Agents
-  Status   : Always Building Something ...
-```
 <br clear="right"/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Arsenal
-
-```bash
-┌──(immad㉿matrix)-[~/tech-stack]
-└─$ ls -la skills/
-```
-
-###  Languages
-
+⚡ Core Toolkit
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,php,java,dart,flutter,xml&theme=dark" />
-</div>
+Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,java,php,dart,html,css&theme=dark" alt="Programming languages" />
+<br/><br/>
 
-###  Frameworks & Platforms
+Web, Mobile & APIs
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,dotnet,laravel,react,nodejs&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,fastapi,flask,dotnet,laravel,flutter&theme=dark" alt="Frameworks" />
+<br/><br/>
 
-<br/>
+AI, Data & 3D
 
-### AI & ML Stack
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,blender&theme=dark" alt="AI and 3D tools" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-15202B?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain" /> <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+<br/><br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</div>
+Cloud, Data & Delivery
 
-<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,mongodb,postgres,sqlite,supabase,firebase,vercel,postman&theme=dark" alt="DevOps and data tools" /></div>
+🧊 Selected Builds
+<table> <tr> <td width="50%" valign="top">
+🎯 CareerMate
+An AI-powered career companion for job seekers, HR teams, and admins.
 
-### Tools & DevOps
+Resume & cover-letter generation
+Job discovery, market insights & cold emails
+Learning paths, courses and quizzes
+React Django Supabase Groq Puppeteer
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,mongodb,postgresql,supabase,firebase&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=cloudinary,vercel,postman,figma,blender,kali&theme=dark" />
-</div>
+Live demo · Source code
 
----
+</td> <td width="50%" valign="top">
+🌿 BioScout
+Biodiversity intelligence platform combining computer vision, maps, and RAG Q&A.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ResNet-50 species classification
+GPS-based observation mapping
+Natural-language biodiversity assistant
+Flask MongoDB Hugging Face Docker
 
-### Project Highlights
+View repository
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-|**CareerMate** | AI-powered career platform with HR, job seeker & admin modules. AI courses, resume builder, job scraping, cover letter generation, Online Quizes, Learning Path, cold emails & market insights | React, Django, Supabase, Groq, Puppeteer | [Live](https://career-mate-8wo4.vercel.app) · [Repo](https://github.com/immad-khan/career-mate) |
-|**BioScout** | AI biodiversity platform with species classification (ResNet-50), GPS mapping & RAG Q&A | Flask, MongoDB, HuggingFace, Docker | [Live](#) · [Repo](https://github.com/immad-khan/BioScout) |
-|**GEN3D** | AI Text-to-3D generator using Ollama QwenCoder 7B with RAG for procedural Blender automation | FastAPI, Ollama, Blender, RAG | [Repo](https://github.com/immad-khan/GEN3D) |
-|**Smart Bazaar** | Unified e-commerce marketplace with web crawlers aggregating products from major Pakistani stores | Custom Crawlers, Full Stack | [Repo](https://github.com/immad-khan/smart_bazaar) |
+</td> </tr> <tr> <td width="50%" valign="top">
+🧊 GEN3D
+Text-to-3D experimentation platform for turning natural-language ideas into procedural Blender workflows.
 
----
+Ollama QwenCoder 7B integration
+RAG-guided code generation
+Procedural 3D asset automation
+FastAPI Ollama Blender RAG
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+View repository
 
-## GitHub Stats & Analytics
+</td> <td width="50%" valign="top">
+🛍️ Smart Bazaar
+A unified Pakistani e-commerce marketplace powered by product aggregation.
 
-```bash
-┌──(immad㉿matrix)-[~/stats]
-└─$ sudo cat github_analytics.log
-```
+Custom crawlers for store data
+Searchable, consolidated catalogues
+Full-stack commerce workflows
+Web Crawlers Full Stack
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immad-khan&show_icons=true&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&icon_color=00ff41&count_private=true&include_all_commits=true" />
-  <!-- Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immad-khan&theme=chartreuse-dark&background=0d0208&border=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" />
-</div>
+View repository
 
-<br/>
-
-
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs?username=immad-khan&layout=compact&theme=chartreuse-dark&bg_color=0d0208&border_color=00ff41&title_color=00ff41&text_color=ffffff&langs_count=10" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=immad-khan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=3" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=immad-khan&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41&title_color=00ff41"/>
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake.svg"/>
-    <img alt="github-snake" 
-      src="https://raw.githubusercontent.com/immad-khan/immad-khan/output/github-snake.svg"/>
-  </picture>
-</div>
-<br/>
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Connect With Me
-
-```bash
-┌──(immad㉿matrix)-[~/connect]
-└─$ nmap --open -p social immad-khan
-```
-
-<div align="center">
-  <a href="https://your-portfolio-url.com">
-    <img src="https://img.shields.io/badge/Portfolio-0d0208?style=for-the-badge&logo=firefox&logoColor=00ff41" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/immad-khan">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/immad-khan">
-    <img src="https://img.shields.io/badge/Instagram-0d0208?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/immad-khan">
-    <img src="https://img.shields.io/badge/LeetCode-0d0208?style=for-the-badge&logo=leetcode&logoColor=00ff41" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d0208?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/immad-khan">
-    <img src="https://img.shields.io/badge/GitHub-0d0208?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<!-- Footer Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=120&section=footer&text=Let's+Build+Something+Epic+Together&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
-</div>
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let%27s+connect+and+collaborate!;Building+the+future+with+AI+%F0%9F%A4%96" alt="Footer Typing" />
-</div>
+</td> </tr> </table>
+📊 GitHub Snapshot
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=immad-khan&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9&icon_color=6D5DFB&ring_color=FF7A59&include_all_commits=true&count_private=true" alt="GitHub statistics" /> <img width="48%" src="https://streak-stats.demolab.com?user=immad-khan&theme=transparent&hide_border=true&ring=6D5DFB&fire=FF7A59&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" /> <br/> <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immad-khan&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Most used languages" /> <img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=immad-khan&bg_color=0B1020&color=C9D1D9&line=6D5DFB&point=FF7A59&area=true&area_color=6D5DFB&hide_border=true" alt="Contribution graph" /> </div>
+🤝 Find Me Online
+<div align="center"> <a href="https://linkedin.com/in/immad-khan"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" /></a> <a href="https://instagram.com/immad-khan"><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=FF7A59" alt="Instagram" /></a> <a href="https://leetcode.com/immad-khan"><img src="https://img.shields.io/badge/LeetCode-0B1020?style=for-the-badge&logo=leetcode&logoColor=FFB000" alt="LeetCode" /></a> <a href="https://github.com/immad-khan"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a> </div><br/><div align="center"> <i>Have an interesting product, AI experiment, or 3D idea in mind?</i><br/> <b>Let’s build something memorable.</b> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:6D5DFB,100:00D4FF&height=125&section=footer&text=Imagine%20%E2%86%92%20Engineer%20%E2%86%92%20Ship&fontSize=21&fontColor=FFFFFF&animation=fadeIn&fontAlignY=72" width="100%" alt="Footer" /> </div>
