@@ -1,0 +1,33 @@
+name: 📅 Daily Q&A Update
+
+on:
+  schedule:
+    # Run at midnight UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Manual trigger option
+
+jobs:
+  update-qa:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run daily Q&A script
+        run: python .github/scripts/daily_qa.py
+
+      - name: Create commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📅 Update daily interview question [skip ci]"
+          branch: main
