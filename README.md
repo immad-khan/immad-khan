@@ -176,19 +176,6 @@
 >
 > ---
 
-## 🎯 Daily Interview Challenge
-
-<!-- START_DAILY_QA -->
-<!-- END_DAILY_QA -->
-
-<div align="center">
-
-**🔥 Streak:** <!-- STREAK --> days | **Topics:** ⚙️ SE • 🤖 AI • 🚀 DevOps • 🔒 Security • 💻 Coding • 🌐 Networking
-
-*[Auto-updates daily at 00:00 UTC]() • [Suggest a question]()*
-
-</div>
-
 ## 🌐 Connect With Me
 
 ```bash
