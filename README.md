@@ -173,6 +173,21 @@
 <!-- END_DAILY_QA -->
 
 > 🔄 Updates daily at midnight UTC | [View All Questions](./daily-qa.md)
+>
+> ---
+
+## 🎯 Daily Interview Challenge
+
+<!-- START_DAILY_QA -->
+<!-- END_DAILY_QA -->
+
+<div align="center">
+
+**🔥 Streak:** <!-- STREAK --> days | **Topics:** ⚙️ SE • 🤖 AI • 🚀 DevOps • 🔒 Security • 💻 Coding • 🌐 Networking
+
+*[Auto-updates daily at 00:00 UTC]() • [Suggest a question]()*
+
+</div>
 
 ## 🌐 Connect With Me
 
