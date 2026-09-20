@@ -165,13 +165,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:00ff41,100:0d0208&height=3" width="100%"/>
 
-## ☕ Debug Fuel
+---
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230a0f0a&qColor=%2300ff41&aColor=%23c9ffd6&textColor=%23c9ffd6&codeColor=%237dffb0" alt="Dev Joke"/>
-</div>
+## 🧠 Daily Interview Question
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:00ff41,100:0d0208&height=3" width="100%"/>
+<!-- START_DAILY_QA -->
+<!-- END_DAILY_QA -->
+
+> 🔄 Updates daily at midnight UTC | [View All Questions](./daily-qa.md)
 
 ## 🌐 Connect With Me
 
