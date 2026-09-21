@@ -170,6 +170,21 @@
 ## 🧠 Daily Interview Question
 
 <!-- START_DAILY_QA -->
+<div align="center">
+
+### 🚀 Today's Question: Devops
+
+**What is a load balancer?**
+
+<details>
+<summary>💡 Click to reveal answer</summary>
+
+> Distributes traffic across multiple servers. Types: Layer 4 (TCP/UDP) and Layer 7 (HTTP). Improves availability and performance.
+
+</details>
+
+*Question #264 of 60*
+</div>
 <!-- END_DAILY_QA -->
 
 > 🔄 Updates daily at midnight UTC | [View All Questions](./daily-qa.md)
