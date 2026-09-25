@@ -174,16 +174,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is the difference between microservices and monolithic architecture?**
+**What is a reverse proxy?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Monolith: Single deployable unit. Microservices: Small, independent services communicating via APIs. Trade-off: complexity vs simplicity.
+> Server that sits in front of backend servers, forwarding client requests. Benefits: SSL termination, caching, load balancing, security.
 
 </details>
 
-*Question #267 of 60*
+*Question #268 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
