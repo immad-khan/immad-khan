@@ -172,18 +172,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### 🚀 Today's Question: Devops
+### 🔒 Today's Question: Cybersecurity
 
-**What is GitOps?**
+**What is the difference between encryption, hashing, and encoding?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Using Git as source of truth for infrastructure and deployments. Changes to Git automatically trigger deployments. Tools: ArgoCD, Flux.
+> Encryption: Reversible with key (confidentiality). Hashing: One-way, fixed output (integrity). Encoding: Reversible, no security purpose (data format).
 
 </details>
 
-*Question #269 of 60*
+*Question #270 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
