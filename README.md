@@ -174,16 +174,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is the difference between symmetric and asymmetric encryption?**
+**What is a SQL injection attack?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Symmetric: Same key for encrypt/decrypt (fast, like AES). Asymmetric: Public key encrypts, private key decrypts (slow, like RSA).
+> Inserting malicious SQL code via user input. Prevention: Parameterized queries, input validation, least privilege database accounts.
 
 </details>
 
-*Question #272 of 60*
+*Question #273 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
