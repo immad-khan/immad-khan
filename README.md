@@ -42,15 +42,7 @@
   Status   : Always Building Something ...
 ```
 
-```bash
-┌──(immad㉿matrix)-[~/directives]
-└─$ tail -f current_objectives.log
 
-  ▸ researching multi-agent AI systems & GenAI
-  ▸ shipping CareerMate to production scale
-  ▸ going deeper into cloud-native architecture
-  ▸ breaking things (ethically) to secure them
-```
 
 <br clear="right"/>
 
