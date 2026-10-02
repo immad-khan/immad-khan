@@ -166,16 +166,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is the CIA triad?**
+**What is XSS (Cross-Site Scripting)?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Core security principles: Confidentiality (only authorized access), Integrity (data is accurate), Availability (accessible when needed).
+> Injecting malicious scripts into web pages. Types: Stored (saved to DB), Reflected (URL params), DOM-based. Prevention: Input sanitization, CSP.
 
 </details>
 
-*Question #274 of 60*
+*Question #275 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
