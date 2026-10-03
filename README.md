@@ -166,16 +166,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is XSS (Cross-Site Scripting)?**
+**What is the difference between authentication and authorization?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Injecting malicious scripts into web pages. Types: Stored (saved to DB), Reflected (URL params), DOM-based. Prevention: Input sanitization, CSP.
+> Authentication: Verifying WHO you are (login). Authorization: Verifying WHAT you can access (permissions). Both are essential.
 
 </details>
 
-*Question #275 of 60*
+*Question #276 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
