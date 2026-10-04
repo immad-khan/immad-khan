@@ -164,18 +164,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### 🔒 Today's Question: Cybersecurity
+### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between authentication and authorization?**
+**What is continuous integration (CI)?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Authentication: Verifying WHO you are (login). Authorization: Verifying WHAT you can access (permissions). Both are essential.
+> CI means regularly merging code into a shared repository, where each update is automatically built and tested. This avoids integration issues, keeps the code ready to deploy, and speeds up releases using tools like Jenkins or GitLab CI.
 
 </details>
 
-*Question #276 of 60*
+*Question #277 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
