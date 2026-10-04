@@ -199,7 +199,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/immad-khan">
+  <a href="https://instagram.com/immad_.khan">
     <img src="https://img.shields.io/badge/Instagram-0d0208?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram"/>
   </a>
   &nbsp;
