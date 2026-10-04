@@ -195,7 +195,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0d0208?style=for-the-badge&logo=firefox&logoColor=00ff41" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/immad-khan">
+  <a href="https://linkedin.com/in/immad-khan](https://www.linkedin.com/in/immad-ahmed-2b5510353">
     <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/>
   </a>
   &nbsp;
