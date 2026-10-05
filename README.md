@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is continuous integration (CI)?**
+**How do you approach debugging a production issue under time pressure?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> CI means regularly merging code into a shared repository, where each update is automatically built and tested. This avoids integration issues, keeps the code ready to deploy, and speeds up releases using tools like Jenkins or GitLab CI.
+> Start by collecting logs and error messages to understand the problem. Try to reproduce the issue in a staging environment, or if that's not possible, check recent deployments and changes. Focus on quick fixes like rolling back or restarting while you work on a long-term solution, and keep your team and stakeholders updated throughout.
 
 </details>
 
-*Question #277 of 114*
+*Question #278 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
