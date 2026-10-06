@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**How do you approach debugging a production issue under time pressure?**
+**Describe a time you improved the performance of an application.**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Start by collecting logs and error messages to understand the problem. Try to reproduce the issue in a staging environment, or if that's not possible, check recent deployments and changes. Focus on quick fixes like rolling back or restarting while you work on a long-term solution, and keep your team and stakeholders updated throughout.
+> A strong answer names the specific bottleneck (e.g., redundant database joins), the fix (indexing, lazy loading, caching), and a measurable result (e.g., a concrete percentage improvement in load time).
 
 </details>
 
-*Question #278 of 114*
+*Question #279 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
