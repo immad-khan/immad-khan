@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**Describe a time you improved the performance of an application.**
+**What is the difference between multithreading and multiprocessing?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A strong answer names the specific bottleneck (e.g., redundant database joins), the fix (indexing, lazy loading, caching), and a measurable result (e.g., a concrete percentage improvement in load time).
+> Multithreading runs several threads in the same process; they share memory and communicate quickly, but may hit race conditions. Multiprocessing runs separate processes with their own memory, which is safer but makes communication slower. Multiprocessing is better for CPU-heavy tasks; multithreading works well for tasks that spend time waiting on I/O.
 
 </details>
 
-*Question #279 of 114*
+*Question #280 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
