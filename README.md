@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between multithreading and multiprocessing?**
+**What is the purpose of a design pattern in software development?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Multithreading runs several threads in the same process; they share memory and communicate quickly, but may hit race conditions. Multiprocessing runs separate processes with their own memory, which is safer but makes communication slower. Multiprocessing is better for CPU-heavy tasks; multithreading works well for tasks that spend time waiting on I/O.
+> Design patterns are tried-and-true solutions to common design problems. They make code easier to maintain, scale, and reuse, and give teams a common language to discuss solutions. Examples: Singleton, Factory, Observer.
 
 </details>
 
-*Question #280 of 114*
+*Question #281 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
