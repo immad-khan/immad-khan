@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the purpose of a design pattern in software development?**
+**How do you ensure the maintainability of your code?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Design patterns are tried-and-true solutions to common design problems. They make code easier to maintain, scale, and reuse, and give teams a common language to discuss solutions. Examples: Singleton, Factory, Observer.
+> Make each function do one thing, use clear and meaningful names, and write unit tests to catch issues when you make changes later. Treat code reviews and refactoring as regular parts of your workflow, not occasional tasks.
 
 </details>
 
-*Question #281 of 114*
+*Question #282 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
