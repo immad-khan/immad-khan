@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**How do you ensure the maintainability of your code?**
+**What is version control, and why is it important in software development?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Make each function do one thing, use clear and meaningful names, and write unit tests to catch issues when you make changes later. Treat code reviews and refactoring as regular parts of your workflow, not occasional tasks.
+> Version control tracks and manages changes to your code over time. It makes collaboration easier, allows branching for new features, and lets you roll back if something goes wrong. Git is the most widely used system today.
 
 </details>
 
-*Question #282 of 114*
+*Question #283 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
