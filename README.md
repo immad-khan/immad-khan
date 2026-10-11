@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is version control, and why is it important in software development?**
+**What is SQL injection, and how can you prevent it?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Version control tracks and manages changes to your code over time. It makes collaboration easier, allows branching for new features, and lets you roll back if something goes wrong. Git is the most widely used system today.
+> SQL injection inserts malicious SQL through input fields to manipulate the database, such as bypassing authentication or extracting/deleting data. Prevent it with parameterized queries or prepared statements, input validation and sanitization, ORM frameworks, and minimal database permissions.
 
 </details>
 
-*Question #283 of 114*
+*Question #284 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
