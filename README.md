@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is SQL injection, and how can you prevent it?**
+**How would you deploy an application in the cloud?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> SQL injection inserts malicious SQL through input fields to manipulate the database, such as bypassing authentication or extracting/deleting data. Prevent it with parameterized queries or prepared statements, input validation and sanitization, ORM frameworks, and minimal database permissions.
+> Choose a cloud provider like AWS, Azure, or GCP. Set up a virtual machine or use a container platform like Kubernetes, depending on your needs. Use Infrastructure as Code tools like Terraform or CloudFormation to make the setup repeatable. Automate deployments with CI/CD pipelines, and use scaling rules and monitoring to keep the app running smoothly as traffic changes.
 
 </details>
 
-*Question #284 of 114*
+*Question #285 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
