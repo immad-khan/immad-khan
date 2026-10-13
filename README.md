@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**How would you deploy an application in the cloud?**
+**How do you use AI coding assistants like GitHub Copilot in your development workflow?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Choose a cloud provider like AWS, Azure, or GCP. Set up a virtual machine or use a container platform like Kubernetes, depending on your needs. Use Infrastructure as Code tools like Terraform or CloudFormation to make the setup repeatable. Automate deployments with CI/CD pipelines, and use scaling rules and monitoring to keep the app running smoothly as traffic changes.
+> Use AI assistants to boost productivity, but don't rely on them to make decisions for you. They're most helpful for repetitive code, test setup, and explaining unfamiliar code. Always review suggestions for accuracy, security, and fit with your project. They are less reliable for complex business logic or security-sensitive code.
 
 </details>
 
-*Question #285 of 114*
+*Question #286 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
