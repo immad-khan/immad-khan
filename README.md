@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**How do you use AI coding assistants like GitHub Copilot in your development workflow?**
+**How do you review AI-generated code for quality and security?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Use AI assistants to boost productivity, but don't rely on them to make decisions for you. They're most helpful for repetitive code, test setup, and explaining unfamiliar code. Always review suggestions for accuracy, security, and fit with your project. They are less reliable for complex business logic or security-sensitive code.
+> Review it like any other code: check edge cases, security issues like injection, leaked secrets or logs, error handling, coding style, and test coverage. Be especially careful with authentication, authorization, and cryptography code, since AI models can suggest insecure patterns. Do a second security review for these cases.
 
 </details>
 
-*Question #286 of 114*
+*Question #287 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
