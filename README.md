@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**How do you review AI-generated code for quality and security?**
+**What is the difference between a large language model (LLM) and a traditional rule-based system, and when would you choose each?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Review it like any other code: check edge cases, security issues like injection, leaked secrets or logs, error handling, coding style, and test coverage. Be especially careful with authentication, authorization, and cryptography code, since AI models can suggest insecure patterns. Do a second security review for these cases.
+> Rule-based systems use clear, set rules, so behavior is predictable and easy to verify. LLMs learn from large amounts of data and handle messy, natural-language input, but their answers aren't always predictable or reliable. Use rule-based systems when results must be easily verifiable (e.g. a discount calculator). Use LLMs for unstructured text or when writing out all the rules is impractical.
 
 </details>
 
-*Question #287 of 114*
+*Question #288 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
