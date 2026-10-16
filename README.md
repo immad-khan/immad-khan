@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between a large language model (LLM) and a traditional rule-based system, and when would you choose each?**
+**How would you build a simple AI-powered feature, and what concerns would you raise before shipping it?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Rule-based systems use clear, set rules, so behavior is predictable and easy to verify. LLMs learn from large amounts of data and handle messy, natural-language input, but their answers aren't always predictable or reliable. Use rule-based systems when results must be easily verifiable (e.g. a discount calculator). Use LLMs for unstructured text or when writing out all the rules is impractical.
+> Pick a model API, design the prompt or fine-tune the model, create a set of test cases, and set limits for speed and cost. Before launch, consider the risk of wrong answers, response latency, per-use cost at scale, data privacy (whether user data goes to a third party), monitoring, and a fallback if the model is unavailable.
 
 </details>
 
-*Question #288 of 114*
+*Question #289 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
