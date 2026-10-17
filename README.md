@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**How would you build a simple AI-powered feature, and what concerns would you raise before shipping it?**
+**What is prompt injection, and how would you defend against it in a product that uses LLMs?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Pick a model API, design the prompt or fine-tune the model, create a set of test cases, and set limits for speed and cost. Before launch, consider the risk of wrong answers, response latency, per-use cost at scale, data privacy (whether user data goes to a third party), monitoring, and a fallback if the model is unavailable.
+> Prompt injection is when someone uses crafted input to change how a language model behaves, making it follow new or harmful instructions. Defend by keeping system instructions separate from user input, using structured roles instead of string concatenation, validating and cleaning inputs, limiting what the model can do with sensitive operations, treating its output as untrusted until verified, and monitoring for unusual results.
 
 </details>
 
-*Question #289 of 114*
+*Question #290 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
