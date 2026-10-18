@@ -166,16 +166,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is prompt injection, and how would you defend against it in a product that uses LLMs?**
+**Have you worked with any machine learning pipelines? What were the main engineering challenges?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Prompt injection is when someone uses crafted input to change how a language model behaves, making it follow new or harmful instructions. Defend by keeping system instructions separate from user input, using structured roles instead of string concatenation, validating and cleaning inputs, limiting what the model can do with sensitive operations, treating its output as untrusted until verified, and monitoring for unusual results.
+> Common challenges: ensuring clean, high-quality data; differences between training and production environments; tracking model versions and keeping results reproducible; monitoring for drift in real-world data; and managing latency and cost at scale. Tools like MLflow, Kubeflow, and Feast help, but don't solve all of these completely.
 
 </details>
 
-*Question #290 of 114*
+*Question #291 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
