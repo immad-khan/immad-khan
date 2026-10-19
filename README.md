@@ -164,18 +164,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### ⚙️ Today's Question: Software Engineering
+### 🤖 Today's Question: Ai Ml
 
-**Have you worked with any machine learning pipelines? What were the main engineering challenges?**
+**What is the difference between AI, ML, and Deep Learning?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Common challenges: ensuring clean, high-quality data; differences between training and production environments; tracking model versions and keeping results reproducible; monitoring for drift in real-world data; and managing latency and cost at scale. Tools like MLflow, Kubeflow, and Feast help, but don't solve all of these completely.
+> AI: Broad concept of machines acting intelligently. ML: Subset where computers learn from data. DL: Subset using neural networks with many layers.
 
 </details>
 
-*Question #291 of 114*
+*Question #292 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
