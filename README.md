@@ -166,16 +166,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is the difference between supervised and unsupervised learning?**
+**What is overfitting and how to prevent it?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Supervised: Uses labeled data (know the answers). Unsupervised: Finds patterns in unlabeled data (clustering, dimensionality reduction).
+> When model memorizes training data instead of learning. Prevention: Cross-validation, regularization, more training data, simpler models.
 
 </details>
 
-*Question #293 of 114*
+*Question #294 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
