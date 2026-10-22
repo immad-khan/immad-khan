@@ -166,16 +166,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is overfitting and how to prevent it?**
+**What is a neural network activation function?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> When model memorizes training data instead of learning. Prevention: Cross-validation, regularization, more training data, simpler models.
+> A mathematical function that determines if a neuron should 'fire'. Common ones: ReLU, Sigmoid, Tanh. Adds non-linearity to the network.
 
 </details>
 
-*Question #294 of 114*
+*Question #295 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
