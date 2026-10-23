@@ -166,16 +166,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is a neural network activation function?**
+**What is the difference between loss, accuracy, and metrics?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A mathematical function that determines if a neuron should 'fire'. Common ones: ReLU, Sigmoid, Tanh. Adds non-linearity to the network.
+> Loss: How wrong predictions are (lower is better). Accuracy: % correct predictions. Metrics: Domain-specific measures (F1, AUC, etc.)
 
 </details>
 
-*Question #295 of 114*
+*Question #296 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
