@@ -166,16 +166,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is the difference between loss, accuracy, and metrics?**
+**What is gradient descent?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Loss: How wrong predictions are (lower is better). Accuracy: % correct predictions. Metrics: Domain-specific measures (F1, AUC, etc.)
+> An optimization algorithm that iteratively adjusts parameters to minimize the loss function by moving in the direction of steepest descent.
 
 </details>
 
-*Question #296 of 114*
+*Question #297 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
