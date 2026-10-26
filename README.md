@@ -166,16 +166,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is transfer learning?**
+**What is the difference between CNN and RNN?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Using a pre-trained model on a similar problem as a starting point. Saves time and data. Common in computer vision and NLP.
+> CNN: Great for images/spatial data, uses filters. RNN: Great for sequences/time series, has memory of previous inputs.
 
 </details>
 
-*Question #298 of 114*
+*Question #299 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
