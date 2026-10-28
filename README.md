@@ -166,16 +166,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What are transformers and why are they important?**
+**What is the difference between precision and recall?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Architecture using self-attention mechanism. Powers GPT, BERT, etc. Can process sequences in parallel and handle long-range dependencies.
+> Precision: Of predicted positives, how many are correct. Recall: Of actual positives, how many did we find. Trade-off based on use case.
 
 </details>
 
-*Question #300 of 114*
+*Question #301 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
