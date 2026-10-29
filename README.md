@@ -164,18 +164,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### 🤖 Today's Question: Ai Ml
+### 🚀 Today's Question: Devops
 
-**What is the difference between precision and recall?**
+**What is the difference between Docker and Kubernetes?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Precision: Of predicted positives, how many are correct. Recall: Of actual positives, how many did we find. Trade-off based on use case.
+> Docker: Container platform for building/running containers. Kubernetes: Orchestration system for managing multiple containers across machines.
 
 </details>
 
-*Question #301 of 114*
+*Question #302 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
