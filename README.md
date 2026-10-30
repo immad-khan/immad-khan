@@ -166,16 +166,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is the difference between Docker and Kubernetes?**
+**What is CI/CD?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Docker: Container platform for building/running containers. Kubernetes: Orchestration system for managing multiple containers across machines.
+> CI: Continuously merging code changes with automated testing. CD: Continuously deploying validated changes to production.
 
 </details>
 
-*Question #302 of 114*
+*Question #303 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
