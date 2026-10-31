@@ -166,16 +166,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is CI/CD?**
+**What is Infrastructure as Code?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> CI: Continuously merging code changes with automated testing. CD: Continuously deploying validated changes to production.
+> Managing infrastructure through code/files instead of manual processes. Tools: Terraform, Ansible, CloudFormation. Version control + reproducibility.
 
 </details>
 
-*Question #303 of 114*
+*Question #304 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
