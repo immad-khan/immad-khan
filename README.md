@@ -166,16 +166,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is a load balancer?**
+**What is monitoring vs logging?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Distributes traffic across multiple servers. Types: Layer 4 (TCP/UDP) and Layer 7 (HTTP). Improves availability and performance.
+> Monitoring: Real-time metrics and alerts (CPU, memory, requests). Logging: Detailed event records for debugging and auditing.
 
 </details>
 
-*Question #306 of 114*
+*Question #307 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
