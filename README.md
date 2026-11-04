@@ -166,16 +166,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is monitoring vs logging?**
+**What are the 12-factor app principles?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Monitoring: Real-time metrics and alerts (CPU, memory, requests). Logging: Detailed event records for debugging and auditing.
+> Best practices for cloud-native apps: codebase, dependencies, config, backing services, build/release/run, stateless processes, port binding, etc.
 
 </details>
 
-*Question #307 of 114*
+*Question #308 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
