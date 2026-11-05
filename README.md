@@ -166,16 +166,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What are the 12-factor app principles?**
+**What is the difference between microservices and monolithic architecture?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Best practices for cloud-native apps: codebase, dependencies, config, backing services, build/release/run, stateless processes, port binding, etc.
+> Monolith: Single deployable unit. Microservices: Small, independent services communicating via APIs. Trade-off: complexity vs simplicity.
 
 </details>
 
-*Question #308 of 114*
+*Question #309 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
