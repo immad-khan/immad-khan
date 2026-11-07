@@ -166,16 +166,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is a reverse proxy?**
+**What is GitOps?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Server that sits in front of backend servers, forwarding client requests. Benefits: SSL termination, caching, load balancing, security.
+> Using Git as source of truth for infrastructure and deployments. Changes to Git automatically trigger deployments. Tools: ArgoCD, Flux.
 
 </details>
 
-*Question #310 of 114*
+*Question #311 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
