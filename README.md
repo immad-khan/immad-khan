@@ -166,16 +166,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is the difference between encryption, hashing, and encoding?**
+**What is the OWASP Top 10?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Encryption: Reversible with key (confidentiality). Hashing: One-way, fixed output (integrity). Encoding: Reversible, no security purpose (data format).
+> Top 10 most critical web security risks: Injection, Broken Auth, XSS, IDOR, Security Misconfig, etc. Updated periodically.
 
 </details>
 
-*Question #312 of 114*
+*Question #313 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
