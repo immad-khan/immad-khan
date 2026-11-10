@@ -166,16 +166,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is the OWASP Top 10?**
+**What is the difference between symmetric and asymmetric encryption?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Top 10 most critical web security risks: Injection, Broken Auth, XSS, IDOR, Security Misconfig, etc. Updated periodically.
+> Symmetric: Same key for encrypt/decrypt (fast, like AES). Asymmetric: Public key encrypts, private key decrypts (slow, like RSA).
 
 </details>
 
-*Question #313 of 114*
+*Question #314 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
