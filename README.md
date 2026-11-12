@@ -166,16 +166,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is a SQL injection attack?**
+**What is the CIA triad?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Inserting malicious SQL code via user input. Prevention: Parameterized queries, input validation, least privilege database accounts.
+> Core security principles: Confidentiality (only authorized access), Integrity (data is accurate), Availability (accessible when needed).
 
 </details>
 
-*Question #315 of 114*
+*Question #316 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
