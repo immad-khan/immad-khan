@@ -166,16 +166,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is the principle of least privilege?**
+**What is a honeypot in cybersecurity?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Users and systems should only have the minimum permissions needed to do their job. Limits damage from breaches and errors.
+> A decoy system to attract and detect attackers. Looks vulnerable but is monitored. Helps study attack patterns and alert on threats.
 
 </details>
 
-*Question #320 of 114*
+*Question #321 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
