@@ -164,18 +164,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### 🔒 Today's Question: Cybersecurity
+### 💻 Today's Question: Coding
 
-**What is a honeypot in cybersecurity?**
+**What is the difference between var, let, and const in JavaScript?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A decoy system to attract and detect attackers. Looks vulnerable but is monitored. Helps study attack patterns and alert on threats.
+> var: Function-scoped, hoisted. let: Block-scoped, not hoisted. const: Block-scoped, not reassignable (but objects can be mutated).
 
 </details>
 
-*Question #321 of 114*
+*Question #322 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
