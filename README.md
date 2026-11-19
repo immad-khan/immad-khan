@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is the difference between var, let, and const in JavaScript?**
+**Explain the difference between == and ===**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> var: Function-scoped, hoisted. let: Block-scoped, not hoisted. const: Block-scoped, not reassignable (but objects can be mutated).
+> ==: Loose equality, type coercion (1 == '1' is true). ===: Strict equality, no coercion (1 === '1' is false). Always prefer ===.
 
 </details>
 
-*Question #322 of 114*
+*Question #323 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
