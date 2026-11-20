@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**Explain the difference between == and ===**
+**What is a closure in programming?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> ==: Loose equality, type coercion (1 == '1' is true). ===: Strict equality, no coercion (1 === '1' is false). Always prefer ===.
+> A function that remembers variables from its outer scope even after that scope has closed. Useful for data privacy and factories.
 
 </details>
 
-*Question #323 of 114*
+*Question #324 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
