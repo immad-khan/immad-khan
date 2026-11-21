@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is a closure in programming?**
+**What is the difference between array.push() and array.concat()?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A function that remembers variables from its outer scope even after that scope has closed. Useful for data privacy and factories.
+> push(): Mutates original array, returns new length. concat(): Returns new array, original unchanged. Spread operator [...arr, item] is also immutable.
 
 </details>
 
-*Question #324 of 114*
+*Question #325 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
