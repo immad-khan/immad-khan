@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is the difference between array.push() and array.concat()?**
+**What is the difference between let and const for objects?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> push(): Mutates original array, returns new length. concat(): Returns new array, original unchanged. Spread operator [...arr, item] is also immutable.
+> Both prevent reassignment to the variable. But const objects can still have their properties modified. Use Object.freeze() for true immutability.
 
 </details>
 
-*Question #325 of 114*
+*Question #326 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
