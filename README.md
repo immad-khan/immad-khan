@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is the difference between let and const for objects?**
+**What is a Promise in JavaScript?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Both prevent reassignment to the variable. But const objects can still have their properties modified. Use Object.freeze() for true immutability.
+> An object representing eventual completion/failure of async operations. States: pending, fulfilled, rejected. Replaced by async/await now.
 
 </details>
 
-*Question #326 of 114*
+*Question #327 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
