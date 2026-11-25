@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is the difference between null and undefined?**
+**What are arrow functions and when to avoid them?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> undefined: Variable declared but not assigned. null: Intentionally set to empty/no value. typeof null === 'object' is a known JS bug.
+> Concise syntax, lexical 'this' binding. Avoid: Object methods (need 'this'), constructors, when you need 'arguments' object.
 
 </details>
 
-*Question #328 of 114*
+*Question #329 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
