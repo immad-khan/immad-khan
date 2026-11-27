@@ -166,16 +166,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is memoization?**
+**What is the difference between forEach, map, filter, and reduce?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Caching function results based on inputs. Expensive calculations are computed once, subsequent calls return cached result. Trade-off: memory vs speed.
+> forEach: Execute function for each element (no return). map: Transform each element (returns new array). filter: Keep matching elements. reduce: Accumulate to single value.
 
 </details>
 
-*Question #330 of 114*
+*Question #331 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
