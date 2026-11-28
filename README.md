@@ -164,18 +164,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### 💻 Today's Question: Coding
+### 🌐 Today's Question: Networking
 
-**What is the difference between forEach, map, filter, and reduce?**
+**What is the difference between TCP and UDP?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> forEach: Execute function for each element (no return). map: Transform each element (returns new array). filter: Keep matching elements. reduce: Accumulate to single value.
+> TCP: Reliable, connection-oriented, ordered delivery, slower. UDP: Fast, connectionless, no guarantee of delivery. Choose based on needs.
 
 </details>
 
-*Question #331 of 114*
+*Question #332 of 114*
 </div>
 <!-- END_DAILY_QA -->
 
